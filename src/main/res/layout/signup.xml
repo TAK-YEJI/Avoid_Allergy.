@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#D1C0E6">
+
     <TextView
         android:id="@+id/TextResult"
         android:layout_width="322dp"

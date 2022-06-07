@@ -44,7 +44,6 @@
             android:text="Mainpage"
             android:textColor="#FFFFFF"
             android:textSize="20dp" />
-
         <Button
             android:id="@+id/search_main_menuBtn"
             android:layout_width="match_parent"
