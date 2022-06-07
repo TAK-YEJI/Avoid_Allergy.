@@ -29,6 +29,5 @@ public class SearchMain extends AppCompatActivity {
 
             }
         });
-
     }
 }

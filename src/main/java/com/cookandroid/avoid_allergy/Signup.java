@@ -16,7 +16,6 @@ public class Signup extends AppCompatActivity {
     Button  signup_signupBtn;
     CheckBox allergy_shrimp, allergy_nut, allergy_fork, allergy_milk, allergy_clam, allergy_fish, allergy_egg, allergy_peach, allergy_meat;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

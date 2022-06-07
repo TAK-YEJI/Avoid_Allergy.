@@ -34,7 +34,6 @@ public class Order extends AppCompatActivity {
                 num1 = order_count.getText().toString();
                 result = Integer.parseInt(num1) * 6500;
                 order_total.setText("Total  " + result.toString());
-
             }
         });
 
@@ -51,7 +50,6 @@ public class Order extends AppCompatActivity {
 
             }
         });
-
 
     }
 }
